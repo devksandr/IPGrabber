@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+.header {
+    text-align: center;
+    background-color: gray;
+}
+
+#ip-block {
+    text-align: center;
+}
+
+#ip-value {
+    font-weight: bold;
+}
